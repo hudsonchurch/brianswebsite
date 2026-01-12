@@ -96,7 +96,7 @@ const Portfolio = () => {
     {
       id: 'the-shack',
       title: "The Shack",
-      location: "Encinitas, CA",
+      location: "Solana Beach, CA",
       year: "2018",
       type: "Commercial",
       size: "2,400 sq ft",
@@ -109,7 +109,7 @@ const Portfolio = () => {
         { src: "/images/shack5.jpg", alt: "The Shack Office Meeting Area" }
       ],
       awards: [],
-      features: ["Encinitas location", "Reclaimed materials", "Indoor-outdoor workspace", "Wraparound deck"]
+      features: ["Solana Beach location", "Reclaimed materials", "Indoor-outdoor workspace", "Wraparound deck"]
     },
     {
       id: 'sema4-live-work',
