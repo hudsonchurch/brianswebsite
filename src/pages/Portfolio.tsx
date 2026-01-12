@@ -100,16 +100,16 @@ const Portfolio = () => {
       year: "2018",
       type: "Commercial",
       size: "2,400 sq ft",
-      description: "A casual beachside restaurant and bar featuring rustic coastal architecture with reclaimed materials. The design emphasizes indoor-outdoor dining with large sliding doors and a wraparound deck.",
+      description: "Brian Church Architecture's office space featuring rustic coastal architecture with reclaimed materials. The design emphasizes indoor-outdoor work environments with large sliding doors and a wraparound deck.",
       images: [
-        { src: "/images/shack1.jpg", alt: "The Shack Exterior" },
-        { src: "/images/shack2.jpg", alt: "The Shack Interior" },
-        { src: "/images/shack3.jpg", alt: "The Shack Deck" },
-        { src: "/images/shack4.jpg", alt: "The Shack Bar" },
-        { src: "/images/shack5.jpg", alt: "The Shack Dining" }
+        { src: "/images/shack1.jpg", alt: "The Shack Office Exterior" },
+        { src: "/images/shack2.jpg", alt: "The Shack Office Interior" },
+        { src: "/images/shack3.jpg", alt: "The Shack Office Deck" },
+        { src: "/images/shack4.jpg", alt: "The Shack Office Workspace" },
+        { src: "/images/shack5.jpg", alt: "The Shack Office Meeting Area" }
       ],
       awards: [],
-      features: ["Beachside location", "Reclaimed materials", "Indoor-outdoor dining", "Wraparound deck"]
+      features: ["Beachside location", "Reclaimed materials", "Indoor-outdoor workspace", "Wraparound deck"]
     },
     {
       id: 'sema4-live-work',
