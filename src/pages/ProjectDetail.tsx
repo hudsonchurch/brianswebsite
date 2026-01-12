@@ -235,7 +235,7 @@ const projectsData: { [key: string]: ProjectData } = {
     type: 'Commercial',
     size: '2,400 sq ft',
     description: 'Brian Church Architecture\'s office space featuring rustic coastal architecture.',
-    detailedDescription: 'The Shack serves as Brian Church Architecture\'s office space, representing a perfect blend of casual coastal work environment and thoughtful architectural design. Located steps from the beach in Encinitas, this project transformed a simple structure into an inspiring creative workspace. The design emphasizes indoor-outdoor work environments with large sliding doors that open completely to blur the boundaries between interior and exterior spaces.',
+    detailedDescription: 'The Shack serves as Brian Church Architecture\'s office space, representing a perfect blend of casual coastal work environment and thoughtful architectural design. Located in Encinitas, this project transformed a simple structure into an inspiring creative workspace. The design emphasizes indoor-outdoor work environments with large sliding doors that open completely to blur the boundaries between interior and exterior spaces.',
     images: [
       { src: '/images/shack1.jpg', alt: 'The Shack Office Exterior' },
       { src: '/images/shack2.jpg', alt: 'The Shack Office Interior' },
@@ -244,7 +244,7 @@ const projectsData: { [key: string]: ProjectData } = {
       { src: '/images/shack5.jpg', alt: 'The Shack Office Meeting Area' }
     ],
     awards: [],
-    features: ['Beachside location', 'Reclaimed materials', 'Indoor-outdoor workspace', 'Wraparound deck'],
+    features: ['Encinitas location', 'Reclaimed materials', 'Indoor-outdoor workspace', 'Wraparound deck'],
     specifications: {
       architect: 'Brian Church Architecture',
       completion: '2018',

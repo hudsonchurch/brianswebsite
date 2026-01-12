@@ -109,7 +109,7 @@ const Portfolio = () => {
         { src: "/images/shack5.jpg", alt: "The Shack Office Meeting Area" }
       ],
       awards: [],
-      features: ["Beachside location", "Reclaimed materials", "Indoor-outdoor workspace", "Wraparound deck"]
+      features: ["Encinitas location", "Reclaimed materials", "Indoor-outdoor workspace", "Wraparound deck"]
     },
     {
       id: 'sema4-live-work',
